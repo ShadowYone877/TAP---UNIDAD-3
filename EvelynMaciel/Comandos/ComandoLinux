@@ -1,0 +1,8 @@
+1) Comandos Linux
+Comando para instalar la máquina virtual de Linux: wsml --install -d debian o wsl.exe --install
+Comando para instalar PostgreSQL: sudo apt install postgresql
+Comando para cambiar de usuario Linux a usuario PostgreSQL: sudo -i -u postgres
+Comando para entrar al archivo: sudo nano "dirección del archivo"
+Comando para saber el estado del programa: sudo service PostgreSQL status
+Comando para reiniciar postgre: sudo service PostgreSQL restart
+Comando para reiniciar postgres: sudo service PostgreSQL restart
