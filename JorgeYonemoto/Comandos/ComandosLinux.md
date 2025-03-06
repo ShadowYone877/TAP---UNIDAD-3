@@ -1,4 +1,4 @@
-Comandos Linux
+# Comandos Linux
 1) Comandos Linux
 1.1) Comando para instalar la máquina virtual de Linux (wsml --install -d debian o wsl.exe --install)
 1.2) Comando para instalar PostgreSQL(sudo apt install postgresql)
