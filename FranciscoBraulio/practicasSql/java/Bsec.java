@@ -4,7 +4,7 @@ import java.sql.Statement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-public class Bsec {
+class Bsec {
     public static void main(String[] args) {
         String url = "jdbc:postgresql://localhost:5432/Alpha";
         String user = "paco_user";
